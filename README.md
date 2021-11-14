@@ -19,3 +19,7 @@
 ->HTML5 - For basic structure to arrange things using div & span.
 -->CSS3 - For great UI.
 -->JS3 - For updating contents & alert boxes.
+
+**Final View**
+
+https://anushaupadya7.github.io/Door_lock-system/
